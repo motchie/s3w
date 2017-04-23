@@ -43,6 +43,7 @@ Flags:
   -t, --toggle   Help message for toggle
 
 Use "s3w [command] --help" for more information about a command.```
+```
 ## Installation
 
 ## Author
@@ -51,4 +52,4 @@ Use "s3w [command] --help" for more information about a command.```
 
 ## License
 
-[MIT](https://github.com/motchie/blob/master/LICENCE)
+[MIT](https://github.com/motchie/s3w/blob/master/LICENSE)
